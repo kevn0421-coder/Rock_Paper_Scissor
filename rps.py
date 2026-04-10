@@ -1,7 +1,7 @@
 # This game was built using GitHub Copilot, but notably the code
 # matches this website's version almost identically:
 #   https://realpython.com/python-rock-paper-scissors/
-
+#bug fixed here
 import random
 
 while True:
